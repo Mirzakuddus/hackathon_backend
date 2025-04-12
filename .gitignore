@@ -13,3 +13,6 @@
 /.pnp.js
 /.pnp.cjs
 /.pnp.loader.mjs
+/package-lock.json
+/package-lock.json.backup
+/package-lock.json.backup.1
